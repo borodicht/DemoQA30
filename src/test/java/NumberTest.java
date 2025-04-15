@@ -3,6 +3,8 @@ import org.testng.annotations.Test;
 
 public class NumberTest {
 
+
+
     /*
     НАПИСАТЬ МЕТОД, КОТОРЫЙ ПРИНИМАЕТ ЧИСЛО И ВОЗВРАЩВЕТ СТРОКУ
     УСЛОВИЕ:
